@@ -1,0 +1,15 @@
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\bin\Debug\NewHistoricalSites.exe.config
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\bin\Debug\NewHistoricalSites.exe
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\bin\Debug\NewHistoricalSites.pdb
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\obj\Debug\NewHistoricalSites.csprojAssemblyReference.cache
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\obj\Debug\MainWindow.g.cs
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\obj\Debug\App.g.cs
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\obj\Debug\NewHistoricalSites_MarkupCompile.cache
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\obj\Debug\NewHistoricalSites_MarkupCompile.lref
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\obj\Debug\MainWindow.baml
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\obj\Debug\NewHistoricalSites.g.resources
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\obj\Debug\NewHistoricalSites.Properties.Resources.resources
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\obj\Debug\NewHistoricalSites.csproj.GenerateResource.cache
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\obj\Debug\NewHistoricalSites.csproj.CoreCompileInputs.cache
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\obj\Debug\NewHistoricalSites.exe
+C:\Users\jabrel\Documents\Visual Studio 2017\Projects\C#\NewHistoricalSites\NewHistoricalSites\obj\Debug\NewHistoricalSites.pdb
